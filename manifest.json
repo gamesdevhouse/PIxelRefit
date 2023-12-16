@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "PIxel Refit",
+  "description": "PIxel Refit Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "PIxel Refit",
+  "name": "PIxel Refit Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "PIxel Refit",
+  "short_name": "PIxel Refit Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "PIxel Refit",
+      "name": "PIxel Refit Pro",
       "url": "",
       "description": ""
     }
